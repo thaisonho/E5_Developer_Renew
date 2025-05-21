@@ -1,5 +1,5 @@
 #自动调用api保活，加密版
-name: Auto Api Task
+name: Automate Api Task
 
 on:
   release:
